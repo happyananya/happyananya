@@ -47,7 +47,7 @@ PyTorch | TensorFlow | OpenCV | scikit-learn | Pandas | NumPy
 ## 🚀 Featured Projects
 
 ### 📊 Student Performance Visualization  
-🔗 https://github.com/Namantyagi2727/Student-Performance-Visualization  
+🔗 [https://github.com/Namantyagi2727/Student-Performance-Visualization](https://namantyagi2727.github.io/Student-Performance-Visualization/)  
 - Built interactive analytics platform (R² = 0.88)  
 - Used SHAP + UMAP for explainability  
 
