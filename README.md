@@ -12,16 +12,6 @@
 - 🎓 Graduate student at NYU with a strong foundation in AI, ML, and systems  
 - 🤖 Passionate about building intelligent, real-world applications  
 - ⚡ Experience in Computer Vision, NLP, and Data Engineering  
-- 🧠 Love working on hackathons and rapid prototyping ideas into products  
-
----
-
-## 🔥 Currently Working On
-
-- 🧠 AI-powered applications (LLMs + multimodal systems)  
-- ⚡ Scalable data pipelines using PySpark  
-- 🌐 Full-stack development with React + Firebase  
-- 📊 Exploring system design & distributed systems  
 
 ---
 
@@ -31,7 +21,7 @@
 Python | JavaScript | C/C++ | SQL  
 
 **Frameworks & Tools:**  
-React | FastAPI | Docker | AWS | Firebase | Git  
+React | FastAPI | AWS | Firebase | Git  
 
 **ML & Data:**  
 PyTorch | TensorFlow | OpenCV | scikit-learn | Pandas | NumPy  
@@ -56,21 +46,18 @@ PyTorch | TensorFlow | OpenCV | scikit-learn | Pandas | NumPy
 
 ## 🚀 Featured Projects
 
-### 🧠 AI Memory Lens
-> Multimodal AI system that captures and retrieves real-world memories  
-
 ### 📊 Student Performance Visualization  
 🔗 https://github.com/Namantyagi2727/Student-Performance-Visualization  
 - Built interactive analytics platform (R² = 0.88)  
 - Used SHAP + UMAP for explainability  
 
-### ✍️ Next Word Predictor  
-🔗 https://github.com/happyananya/NextWordPrediction  
-- RNN-based NLP model for contextual text prediction  
+### ✍️ nomz - Restaurant Recommendation App    
+- Building a Django Application for logging restaurant ratings
+- User can recommend restaurants to friends  
 
 ### 🖱️ Virtual Mouse System  
 - Controlled cursor using hand gestures + facial tracking  
-- Built with OpenCV + MediaPipe  
+- Built with OpenCV + MediaPipe + PyAutoGUI
 
 ---
 
