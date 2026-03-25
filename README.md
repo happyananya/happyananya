@@ -15,49 +15,32 @@
 
 ---
 
-## 🧰 Tech Stack
+## 💻 Tech Stack
 
-**Languages:**  
-Python | JavaScript | C/C++ | SQL  
+### 🧠 Languages
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge)
 
-**Frameworks & Tools:**  
-React | FastAPI | AWS | Firebase | Git  
+### ⚙️ Frameworks & Tools
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 
-**ML & Data:**  
-PyTorch | TensorFlow | OpenCV | scikit-learn | Pandas | NumPy  
-
----
-
-## 💼 Experience
-
-### 🏢 Samsung Research — PRISM Intern  
-- Built CNN-based incremental learning system (85% retention accuracy)  
-- Evaluated Vision Transformers vs CNNs for knowledge distillation  
-
-### 🏢 AiDash — Data Science Intern  
-- Developed YOLOv8 model for road crack detection (91% precision)  
-- Improved recall by 50% using image preprocessing techniques  
-
-### 🏢 Universiti Teknologi PETRONAS — Project Intern  
-- Built system to detect AI-generated code using software metrics  
-- Applied clustering techniques (Cyclomatic Complexity, Halstead Metrics)  
-
----
-
-## 🚀 Featured Projects
-
-### 📊 Student Performance Visualization  
-🔗 [https://github.com/Namantyagi2727/Student-Performance-Visualization](https://namantyagi2727.github.io/Student-Performance-Visualization/)  
-- Built interactive analytics platform (R² = 0.88)  
-- Used SHAP + UMAP for explainability  
-
-### ✍️ nomz - Restaurant Recommendation App    
-- Building a Django Application for logging restaurant ratings
-- User can recommend restaurants to friends  
-
-### 🖱️ Virtual Mouse System  
-- Controlled cursor using hand gestures + facial tracking  
-- Built with OpenCV + MediaPipe + PyAutoGUI
+### 🤖 ML & Data
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-orange?style=for-the-badge&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
 
 ---
 
