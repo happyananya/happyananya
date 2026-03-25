@@ -54,14 +54,6 @@
 
 ---
 
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/ananya-agarwal03/  
-- 📧 Email: aa13549@nyu.edu  
-- 💻 GitHub: https://github.com/happyananya  
-
----
-
 ## ✨ Fun Zone
 
 ☕ Powered by: Coffee + curiosity  
